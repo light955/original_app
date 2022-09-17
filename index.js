@@ -1,4 +1,4 @@
-function addition(a,b){
+let addition = function (a,b){
 
     return a+b
 
